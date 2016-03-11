@@ -1,6 +1,6 @@
 testing cmake-basics on travis
 ------------
-(https://travis-ci.org/wnguatem/testing_cmake_on_travis.svg?branch=master "testing_cmake_on_travis build status")
+https://travis-ci.org/wnguatem/testing_cmake_on_travis.svg
 
 Code from the CMakeTutorial (http://www.cmake.org/cmake/help/cmake_tutorial.html)
 
