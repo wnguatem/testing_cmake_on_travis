@@ -9,6 +9,7 @@ int main (int argc, char *argv[])
   {
     std::cout << "Usage: " << argv[0] << " number\n";
     return 1;
+	int rr = s; //interntionally failing the compiler 
   }
   double inputValue = atof(argv[1]);
   double outputValue = cmake::my::mysqrt(inputValue);
