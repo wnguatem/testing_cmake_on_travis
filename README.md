@@ -1,8 +1,6 @@
 testing cmake-basics on travis
 ------------
 
-![cmake-basics build status]
-
 Code from the CMakeTutorial (http://www.cmake.org/cmake/help/cmake_tutorial.html)
 
 
